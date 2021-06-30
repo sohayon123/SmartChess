@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-* linguist-vendored
-/Swift_Code/* linguist-vendored=false
+*.swift linguist-detectable=false
+*.ino linguist-detectable=true
