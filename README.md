@@ -6,7 +6,7 @@ In my household, I am the only individual who enjoys playing Chess. Chess is an 
 
 ## Overview
 
-SmartChess is an electronic Chessboard that utilizes an integrated circuit to recognize where pieces are located on the board, and then sends that information to an accompanying app that can give the user a visualization of the board. The app can give hints, can record games, enforces move legality, and is currently in development to allow the user to play against an AI.
+SmartChess is an electronic Chessboard that utilizes an integrated circuit to recognize where pieces are located on the board, and then sends that information to an accompanying app that can give the user a visualization of the board. The app can give hints, record games and enforces move legality.
 
  <img src="https://github.com/sohayon123/SmartChess/blob/master/Pictures/IMG_8273.jpg?raw=true" width="45%" height="45%"> <img src="https://github.com/sohayon123/SmartChess/blob/master/Pictures/IMG_8272.jpg?raw=true" width="45%" height="45%">
 
